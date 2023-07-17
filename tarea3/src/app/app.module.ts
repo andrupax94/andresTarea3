@@ -19,4 +19,6 @@ import { AdminComponentComponent } from './admin-component/admin-component.compo
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+  hola:string="hola"
+ }
