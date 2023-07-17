@@ -20,5 +20,5 @@ import { AdminComponentComponent } from './admin-component/admin-component.compo
   bootstrap: [AppComponent]
 })
 export class AppModule {
-  hola:string="hola"
+  hola:string="hodla"
  }
